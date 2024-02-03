@@ -24,7 +24,7 @@ function App() {
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">browny</a>
+			                <a class="navbar-brand" href="index.html">Govind</a>
 			            </div>
                   {/* <!--/.navbar-header--> */}
 			            {/* <!-- End Header Navigation --> */}
@@ -95,7 +95,7 @@ function App() {
 									{/* I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud. */}
 								</h3>
 								<p>
-								 My name is Govind Sankar H. I am Web Developer| |UI/UX Designer| |Photographer| |.
+								 My name is Govind Sankar H. I am Web Developer| |UI/UX Designer| |Photographer| |MERN Stack Developer|.
 								</p>
 								<div class="row">
 									<div class="col-sm-4">
