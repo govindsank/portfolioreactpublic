@@ -783,7 +783,7 @@ function App() {
 							<div class="single-contact-box">
 								<div class="contact-adress">
 									<div class="contact-add-head">
-										<h3>browny star</h3>
+										<h3>Govind Sankar H</h3>
 										<p>uI/uX designer</p>
 									</div>
 									<div class="contact-add-info">
