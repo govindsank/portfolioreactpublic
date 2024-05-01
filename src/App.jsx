@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">Govind</a>
+			                <a class="navbar-brand" href="index.html">browny</a>
 			            </div>
                   {/* <!--/.navbar-header--> */}
 			            {/* <!-- End Header Navigation --> */}
@@ -67,7 +67,7 @@ function App() {
 							{/* <h2>hi <span>,</span> i am <br> browny <br> star <span>.</span>   </h2> */}
               <h2> hi<span>,</span> i am Govind</h2>
 							{/* <p>ui/ux designer and web developer</p> */}
-              <p>I'm  Developer, Freelancer, Photographer</p>
+              <p>I'm  Developer, Freelancer</p>
 							{/* <a href="assets/download/browney.txt" download>download resume</a> */}
 						</div>
             {/* <!--/.header-text--> */}
@@ -95,7 +95,7 @@ function App() {
 									{/* I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud. */}
 								</h3>
 								<p>
-								 My name is Govind Sankar H. I am Web Developer| |UI/UX Designer| |Photographer| |MERN Stack Developer|.
+								 My name is Govind Sankar H. I am Web Developer| |UI/UX Designer| |Photographer| |.
 								</p>
 								<div class="row">
 									<div class="col-sm-4">
@@ -783,7 +783,7 @@ function App() {
 							<div class="single-contact-box">
 								<div class="contact-adress">
 									<div class="contact-add-head">
-										<h3>Govind Sankar H</h3>
+										<h3>browny star</h3>
 										<p>uI/uX designer</p>
 									</div>
 									<div class="contact-add-info">
@@ -835,7 +835,7 @@ function App() {
 			<div class="container">
 				<div class="hm-footer-copyright text-center">
 					<p>
-						&copy; copyright yourname. design and developed by <a href="https://www.themesine.com/">themesine</a>
+						&copy; copyright Govind Sankar H.
 					</p>
           {/* <!--/p--> */}
 				</div>
