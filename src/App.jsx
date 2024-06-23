@@ -24,7 +24,7 @@ function App() {
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">browny</a>
+			                <a class="navbar-brand" href="index.html">Govind</a>
 			            </div>
                   {/* <!--/.navbar-header--> */}
 			            {/* <!-- End Header Navigation --> */}
